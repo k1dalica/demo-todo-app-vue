@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>To Do List</h1>
+    <h1>Demo To Do List</h1>
 
     <router-view />
   </div>
@@ -8,7 +8,7 @@
 
 <style lang="scss" scoped>
   #app {
-    width: 800px;
+    width: 700px;
     max-width: 100%;
     margin: 100px auto;
   }
